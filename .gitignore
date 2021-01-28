@@ -1,0 +1,11 @@
+# directories
+.idea/
+/docker/db/mysql/*
+target
+
+# files
+*.elc
+*.swp
+*.orig
+*~
+.DS_Store
